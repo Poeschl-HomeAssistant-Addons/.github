@@ -1,6 +1,7 @@
 # Poeschl Home Assistant Add-ons
 
-My collection of Home Assistant Addons.
+A organisation to keep my collection of Home Assistant Addons organized in a "good" way.
 
-* [Installation and more](https://github.com/Poeschl-HomeAssistant-Addons/repository)
-* [Active addon installations](https://addonstats.poeschl.xyz/?filter=243ffc37_)
+Further links:
+* 📄 [Installation and more](https://github.com/Poeschl-HomeAssistant-Addons/repository)
+* 📈 [Active addon installations](https://addonstats.poeschl.xyz/?filter=243ffc37_)
