@@ -1,6 +1,3 @@
-# Poeschl Home Assistant Add-ons
+# Poeschl-HomeAssistant-Addons Meta-Repository
 
-My collection of Home Assistant Addons.
-
-* [Installation and more](https://github.com/Poeschl-HomeAssistant-Addons/repository)
-* [Active addon installations](https://addonstats.poeschl.xyz/?filter=243ffc37_)
+It contains metadata about the organisation and organisation-wide templates and documentation.
