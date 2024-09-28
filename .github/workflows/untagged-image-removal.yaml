@@ -23,7 +23,7 @@ jobs:
         id: deleted-action
         uses: Chizkiyahu/delete-untagged-ghcr-action@main
         with:
-          token: ${{ secrets.IMAGE_REMOVAL_PAT_TOKEN }}
+          token: ${{ secrets.IMAGE_REMOVAL_TOKEN }}
           repository_owner: ${{ github.repository_owner }}
           untagged_only: true
           owner_type: org
