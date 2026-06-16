@@ -32,11 +32,11 @@ categories:
 version-resolver:
   major:
     labels:
-      - "major"
+      - "major-release"
       - "breaking-change"
   minor:
     labels:
-      - "minor"
+      - "minor-release"
       - "new-feature"
   patch:
     labels:
